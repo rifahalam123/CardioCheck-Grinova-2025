@@ -98,4 +98,6 @@ The Flask backend processes these inputs and returns the risk score. The fronten
 
 ## License
 
-MIT © 2025 Shido/Voiid
+MIT © 2025 rifah
+
+
